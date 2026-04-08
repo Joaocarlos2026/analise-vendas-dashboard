@@ -84,3 +84,5 @@ A empresa precisava entender:
 João Carlos de Oliveira Ramos
 🔗 LinkedIn: [https://www.linkedin.com/in/jo%C3%A3o-carlos-b579a4401/](https://www.linkedin.com/in/jo%C3%A3o-carlos-b579a4401/)
 🔗 GitHub: [(https://github.com/Joaocarlos2026)](https://github.com/Joaocarlos2026)
+🔗 EMAIL : joaocarlos_Ramos@outlook.com.br
+
