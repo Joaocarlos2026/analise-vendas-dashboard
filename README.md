@@ -11,16 +11,16 @@ Este projeto foi desenvolvido com o objetivo de analisar dados de Vendas, buscan
 
 A empresa precisava entender:
 
-* [Ex: Quais produtos geram mais lucro]
-* [Ex: Quais canais têm melhor desempenho]
-* [Ex: Como melhorar retenção de clientes]
+* O produto mais lucrativo da empresa tem sido o Mouse gamer
+* apesar de webcam ser a com quantidade de vendas maior o mouse gamer acaba gerando faturamento e lucro superior apesar de tudo
+* a rentenção de clientes deve ser feita através de incentivos para compras de outros produtos para reduzir a quantidade de estoque
 
 ---
 
 ## 🗂️ Base de dados
 
 * Fonte: Excel
-* Volume: [Ex: 10.000 linhas]
+* Volume: 5.000 dados
 * Tipo de dados: Vendas
 
 ---
@@ -48,17 +48,17 @@ A empresa precisava entender:
 
 ## 📈 Principais insights
 
-* Produto X representa 40% da receita total
-* Região Y possui maior volume de vendas, mas menor margem
-* Canal Z apresenta ROI negativo
+* a empresa tem apresentando um queda de faturamento ao longo do tempo
+* a região centro-oeste e sul tem apresentando uma parcela muito alta das vendas da empresa
+
 
 ---
 
 ## 💡 Recomendações
 
-* Investir mais no produto X
-* Revisar estratégia na região Y
-* Reduzir investimento no canal Z
+* Investir mais em produtos que tem tido um desempenho baixo para manter a varidade de produtos da loja
+* Revisar estratégia de porque o região nordeste e sudeste tem menor faturamento da empresa
+
 
 ---
 
@@ -81,8 +81,8 @@ A empresa precisava entender:
 
 ## 👨‍💻 Autor
 
-João Carlos de Oliveira Ramos
-🔗 LinkedIn: [https://www.linkedin.com/in/jo%C3%A3o-carlos-b579a4401/](https://www.linkedin.com/in/jo%C3%A3o-carlos-b579a4401/)
-🔗 GitHub: [(https://github.com/Joaocarlos2026)](https://github.com/Joaocarlos2026)
-🔗 EMAIL : joaocarlos_Ramos@outlook.com.br
+* João Carlos de Oliveira Ramos
+* 🔗 LinkedIn: [https://www.linkedin.com/in/jo%C3%A3o-carlos-b579a4401/](https://www.linkedin.com/in/jo%C3%A3o-carlos-b579a4401/)
+* 🔗 GitHub: [(https://github.com/Joaocarlos2026)](https://github.com/Joaocarlos2026)
+* 🔗 EMAIL : joaocarlos_Ramos@outlook.com.br
 
